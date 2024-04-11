@@ -1,0 +1,432 @@
+Error rate: 0.0001
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 43
+
+Error rate: 0.0001
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 43
+
+Error rate: 0.0001
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 43
+
+Error rate: 0.0001
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 43
+
+Error rate: 0.001
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 432
+
+Error rate: 0.001
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 432
+
+Error rate: 0.001
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 432
+
+Error rate: 0.001
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 432
+
+Error rate: 0.003
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 1297
+
+Error rate: 0.003
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 1297
+
+Error rate: 0.003
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 1297
+
+Error rate: 0.003
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 1297
+
+Error rate: 0.005
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 2161
+
+Error rate: 0.005
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 2161
+
+Error rate: 0.005
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 2161
+
+Error rate: 0.005
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 2161
+
+Error rate: 0.008
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 3459
+
+Error rate: 0.008
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 3459
+
+Error rate: 0.008
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 3459
+
+Error rate: 0.008
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 3459
+
+Error rate: 0.01
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted in each test: 4323
+
+Error rate: 0.01
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides deleted in each test: 4323
+
+Error rate: 0.01
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides inserted in each test: 4323
+
+Error rate: 0.01
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/mona_lisa.jpg
+The number of nucleotides in each test: 432383
+The number of nucleotides substituted, deleted or inserted in each test: 4323
+
+Error rate: 0.0001
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 216
+
+Error rate: 0.0001
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 216
+
+Error rate: 0.0001
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 216
+
+Error rate: 0.0001
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 216
+
+Error rate: 0.001
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 2160
+
+Error rate: 0.001
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 2160
+
+Error rate: 0.001
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 2160
+
+Error rate: 0.001
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 2160
+
+Error rate: 0.003
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 6480
+
+Error rate: 0.003
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 6480
+
+Error rate: 0.003
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 6480
+
+Error rate: 0.003
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 6480
+
+Error rate: 0.005
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 10801
+
+Error rate: 0.005
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 10801
+
+Error rate: 0.005
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 10801
+
+Error rate: 0.005
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 10801
+
+Error rate: 0.008
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 17282
+
+Error rate: 0.008
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 17282
+
+Error rate: 0.008
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 17282
+
+Error rate: 0.008
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 17282
+
+Error rate: 0.01
+Error type: substitution
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted in each test: 21602
+
+Error rate: 0.01
+Error type: deletion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides deleted in each test: 21602
+
+Error rate: 0.01
+Error type: insertion
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides inserted in each test: 21602
+
+Error rate: 0.01
+Error type: mix
+The number of tests: 1000
+The number of successful recoveries: 0
+Success rate: 0.0
+Tested file: ./files/united_nations_flag.bmp
+The number of nucleotides in each test: 2160270
+The number of nucleotides substituted, deleted or inserted in each test: 21602
+

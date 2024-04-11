@@ -1,0 +1,7 @@
+These programs are for my post 'Fake data, lies and traps in paper "Towards practical and robust DNA-based data archiving using the yin–yang codec system" '
+
+1. The file "yyc" under all directories were provided by authors of Paper YYC (Towards practical and robust DNA-based data archiving using the yin–yang codec system) and downloaded from \url{https://github.com/ntpz870817/DNA-storage-YYC} (as of Apr 3 2024)
+
+2. The module "module_robustness.py" in "test_13" and "test_14" comes from my github repository (https://github.com/tom123jack321/simulation_errors_nucleotides_robustness)
+
+3. The video "Exiting the Factory.flv" was provided by https://github.com/ntpz870817/Chamaeleo
